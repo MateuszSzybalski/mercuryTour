@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class CheckElementsAreDisplayed extends BaseTest{
+public class MainPage extends BaseTest{
 
     @Test
     public void openMainPage() {
@@ -9,7 +9,6 @@ public class CheckElementsAreDisplayed extends BaseTest{
         mainPage.checkElementIsDisplayed(mainPage.register);
         mainPage.checkElementIsDisplayed(mainPage.support);
         mainPage.checkElementIsDisplayed(mainPage.contact);
-
     }
 
 }
