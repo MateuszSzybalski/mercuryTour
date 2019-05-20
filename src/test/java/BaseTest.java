@@ -5,14 +5,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;
 import pages.MainPage;
 import pages.RegisterPage;
+import pages.SupportPage;
 import pages.TestData;
 
-public class BaseTest {
+public class BaseTest extends TestData{
     WebDriver driver;
     String BASE_URL = "http://newtours.demoaut.com/";
     MainPage mainPage;
     TestData testData;
     RegisterPage registerPage;
+    SupportPage supportPage;
 
     @Before
     public void setDriver(){
@@ -25,6 +27,7 @@ public class BaseTest {
         mainPage = PageFactory.initElements(driver, MainPage.class);
         testData = PageFactory.initElements(driver, TestData.class);
         registerPage = PageFactory.initElements(driver, RegisterPage.class);
+        supportPage = PageFactory.initElements(driver, SupportPage.class);
     }
 
     @After

@@ -1,5 +1,4 @@
 import org.junit.Test;
-import pages.TestData;
 
 public class RegisterUser extends BaseTest {
 
@@ -20,7 +19,8 @@ public class RegisterUser extends BaseTest {
         registerPage.fillUserInformation("Tester12", "Test1234", "Test1234");
         registerPage.checkElementIsDisplayed(registerPage.submitButton);
         registerPage.clickElement(registerPage.submitButton);
-        Thread.sleep(2000);
+        Thread.sleep(1000);
+
     }
 
 }

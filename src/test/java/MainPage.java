@@ -9,6 +9,10 @@ public class MainPage extends BaseTest{
         mainPage.checkElementIsDisplayed(mainPage.register);
         mainPage.checkElementIsDisplayed(mainPage.support);
         mainPage.checkElementIsDisplayed(mainPage.contact);
+        mainPage.clickElement(mainPage.support);
+        supportPage.checkElementIsDisplayed(supportPage.back_button);
+        supportPage.clickElement(supportPage.back_button);
+        mainPage.checkElementIsDisplayed(mainPage.logoMercuryTours);
     }
 
 }
