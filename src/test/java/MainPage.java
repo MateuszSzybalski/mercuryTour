@@ -1,3 +1,4 @@
+import org.junit.Assert;
 import org.junit.Test;
 
 public class MainPage extends BaseTest{
@@ -5,6 +6,7 @@ public class MainPage extends BaseTest{
     @Test
     public void openMainPage() {
         mainPage.checkElementIsDisplayed(mainPage.logoMercuryTours);
+        Assert.assertEquals(BASE_URL , driver.getCurrentUrl());
         mainPage.checkElementIsDisplayed(mainPage.signOn);
         mainPage.checkElementIsDisplayed(mainPage.register);
         mainPage.checkElementIsDisplayed(mainPage.support);

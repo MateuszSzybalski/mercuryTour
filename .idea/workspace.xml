@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0e96dc9-0108-4f06-b023-8ec0df24fd70" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pages/SupportPage.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SupportPage.java" afterPath="$PROJECT_DIR$/src/main/java/pages/SupportPage.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/TestData.java" afterPath="$PROJECT_DIR$/src/main/java/pages/TestData.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MainPage.java" afterPath="$PROJECT_DIR$/src/test/java/MainPage.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RegisterUser.java" afterPath="$PROJECT_DIR$/src/test/java/RegisterUser.java" />
       <change beforePath="$PROJECT_DIR$/target/classes/pages/TestData.class" afterPath="$PROJECT_DIR$/target/classes/pages/TestData.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MainPage.class" afterPath="$PROJECT_DIR$/target/test-classes/MainPage.class" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/RegisterUser.class" afterPath="$PROJECT_DIR$/target/test-classes/RegisterUser.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,23 +20,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="39">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisterUser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUser.java">
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="39">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/RegisterPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SupportPage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/SupportPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="7" column="86" lean-forward="false" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,9 +68,11 @@
       <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-              <folding />
+            <state relative-caret-position="195">
+              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,15 +107,15 @@
         <option value="$PROJECT_DIR$/src/main/java/pages/BaseMethod.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/RecenzjePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/AndroidMainPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/SearchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CheckElementsAreDisplayed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/SupportPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/RegisterUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/TestData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/SupportPage.java" />
       </list>
     </option>
   </component>
@@ -206,6 +231,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,8 +283,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -285,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RegisterUser.registerUser">
+  <component name="RunManager" selected="JUnit.MainPage.openMainPage">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -476,8 +501,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RegisterUser.registerUser" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MainPage.openMainPage" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MainPage.openMainPage" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RegisterUser.registerUser" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.CheckElementsAreDisplayed.openAndroiidMainPage" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.CheckElementsAreDisplayed.openGooglePage" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.TestSearch" />
@@ -501,35 +526,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainPage_openMainPage - 2019.05.20 at 22h 59m 10s.xml">
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 22h 51m 17s.xml">
       <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.18 at 23h 35m 38s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 22h 52m 41s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.18 at 23h 42m 10s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 22h 59m 34s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.19 at 14h 09m 23s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 00m 25s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.19 at 14h 09m 44s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 00m 55s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.20 at 23h 00m 45s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 01m 21s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.20 at 23h 01m 51s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 02m 19s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RegisterUser_registerUser - 2019.05.20 at 23h 02m 26s.xml">
-      <configuration name="RegisterUser.registerUser" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 03m 51s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchTest_openAndroiidMainPage - 2019.04.24 at 18h 50m 47s.xml">
-      <configuration name="SearchTest.openAndroiidMainPage" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 05m 53s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SearchTest_openAndroiidMainPage - 2019.05.18 at 21h 52m 03s.xml">
-      <configuration name="SearchTest.openAndroiidMainPage" configurationId="JUnit" />
+    <history-entry file="MainPage_openMainPage - 2019.05.21 at 23h 07m 42s.xml">
+      <configuration name="MainPage.openMainPage" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -544,12 +569,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15079366" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33257142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33257142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2881563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2918193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -572,7 +597,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/MainPage.java</url>
-          <line>5</line>
+          <line>6</line>
           <properties class="MainPage" method="openMainPage">
             <option name="EMULATED" value="true" />
           </properties>
@@ -617,8 +642,8 @@
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2574#2575#0" expanded="true" />
-            <element signature="e#2615#2616#0" expanded="true" />
+            <element signature="e#2574#2575#0" expanded="false" />
+            <element signature="e#2615#2616#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -628,8 +653,8 @@
         <state relative-caret-position="39">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -648,8 +673,8 @@
           <caret line="59" column="35" lean-forward="false" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2574#2575#0" expanded="true" />
-            <element signature="e#2615#2616#0" expanded="true" />
+            <element signature="e#2574#2575#0" expanded="false" />
+            <element signature="e#2615#2616#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -675,8 +700,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -696,8 +721,8 @@
         <state relative-caret-position="169">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -733,8 +758,8 @@
         <state relative-caret-position="169">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,32 +846,30 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/BaseMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/RecenzjePage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/CheckElementsAreDisplayed.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        <state relative-caret-position="273">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SupportPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/TestData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="65">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -856,33 +879,35 @@
           <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2574#2575#0" expanded="true" />
-            <element signature="e#2615#2616#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RegisterUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="39">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/SupportPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="86" lean-forward="false" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
