@@ -5,15 +5,15 @@ import org.openqa.selenium.WebElement;
 
 public class TestData {
 
-    public void checkElementIsDisplayed(WebElement WebElement){
-        if (WebElement.isDisplayed()){
+    public void checkElementIsDisplayed(WebElement webElement){
+        if (webElement.isDisplayed()){
         } else {
             System.out.println("Element is not displayed");
         }
     }
 
-    public void clickElement(WebElement WebElement){
-        WebElement.click();
+    public void clickElement(WebElement webElement) {
+        webElement.click();
     }
 
 
